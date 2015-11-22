@@ -7,8 +7,8 @@ public class Test_Bohun {
 
     int test1 =1;
 
-
     int bohun =2;
 
+    int b2 =3;
 
 }
