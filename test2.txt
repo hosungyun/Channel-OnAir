@@ -1,15 +1,4 @@
-abccd
-<<<<<<< HEAD
-sd
-sd
 
-sd
-sd
-d
-
-dd
-dddddddddddddddddddddddd
-=======
 dd
 sf
 ss
@@ -19,4 +8,3 @@ f
 a
 ds
 s
->>>>>>> 2edc336538c9fa01fdda0ca95ac43a2bdf37901e
