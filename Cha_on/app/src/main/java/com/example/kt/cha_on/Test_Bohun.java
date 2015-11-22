@@ -9,6 +9,6 @@ public class Test_Bohun {
 
     int kyeongtae =3;
     int a = 1;
-    
+
 
 }
